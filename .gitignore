@@ -1,0 +1,7 @@
+checkpoints
+dataset
+output
+pretrained copy
+SLIP/slip_base_50ep.pt
+SLIP/eng_text_features.pt
+ulip/assets
